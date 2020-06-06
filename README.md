@@ -1,1 +1,1 @@
-# Gauransh_Singh_Machine_Learning
+# Machine Learning_Gauransh Singh
